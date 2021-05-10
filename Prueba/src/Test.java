@@ -1,6 +1,8 @@
 
 public class Test {
 	
-	private Integer n1;
+	private Integer n2;
+	
+
 
 }
